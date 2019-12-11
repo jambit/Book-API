@@ -1,3 +1,10 @@
+**Inhaltsangabe:**
+- Einleitung
+- Projektziel
+- Technologien
+- Versionsverwaltung
+- Dokumentation
+
 **Einleitung:**
 Deine örtliche Stadtbibliothek benötigt ein neues Verwaltungssystem für ihre Bücher. Da die Bibliothek keine großen finanziellen Mittel zur Verfügung hat und sie dir sehr am Herzen liegt, hast du dich freiwillig bereit erklärt, das System zu entwickeln. Zusammen mit deinem besten Freund machst du dich nun an die Planung. Ihr habt euch darauf geeinigt, dass du dich um das Backend kümmerst während er das Frontend entwickelt. 
 
