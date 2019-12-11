@@ -39,7 +39,7 @@ Das Ziel des Projekts ist es ein Backend zu erstellen, welches mithilfe einer RE
 - Für das Management der Aufgaben wird Trello verwendet. 
   
 **Hintergrund:**
-Diese Aufgabenstellung ist im Rahmen einer Azubibetreuung entstanden,
+Diese Aufgabenstellung ist im Rahmen einer Azubi-betreuung entstanden,
 um mich mit Projektnahen-Technologien auseinandersetzen zu dürfen. 
 
 
