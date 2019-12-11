@@ -1,0 +1,119 @@
+{
+	"info": {
+		"_postman_id": "f49059ae-c007-4425-bd41-cc04357fe171",
+		"name": "Book-API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create book",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"title\": \"Hansel and Gretel\",\r\n\t\"genre\": \"Fairy Tale\",\r\n\t\"author\": \"Brüder Grimm\",\r\n\t\"publicationDate\": \"12.02.1812\",\r\n\t\"pageNumber\": \"64\"\r\n}"
+				},
+				"url": {
+					"raw": "localhost:8080/api/v1/books",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"books"
+					]
+				},
+				"description": "Creates a new book"
+			},
+			"response": []
+		},
+		{
+			"name": "Get all books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/v1/books/all",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"books",
+						"all"
+					]
+				},
+				"description": "Returns every book in the database"
+			},
+			"response": []
+		},
+		{
+			"name": "Get amount of books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/v1/books/size",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"books",
+						"size"
+					]
+				},
+				"description": "Shows total amount of books in the database\n"
+			},
+			"response": []
+		},
+		{
+			"name": "Get filtered books",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				},
+				"description": "Returns list of filtered books"
+			},
+			"response": []
+		},
+		{
+			"name": "Delete book",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/api/v1/books/5de91b56fea9f286f4a6fa91",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"books",
+						"5de91b56fea9f286f4a6fa91"
+					]
+				},
+				"description": "Deletes a book in the database"
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

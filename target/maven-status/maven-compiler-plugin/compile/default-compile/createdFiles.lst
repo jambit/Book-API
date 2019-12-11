@@ -1,0 +1,7 @@
+com/example/book/persistence/BookRepository.class
+com/example/book/BookApplication.class
+com/example/book/service/BookService.class
+com/example/book/exception/WrongFormatException.class
+com/example/book/model/Book.class
+com/example/book/api/BookController.class
+com/example/book/validation/Validator.class

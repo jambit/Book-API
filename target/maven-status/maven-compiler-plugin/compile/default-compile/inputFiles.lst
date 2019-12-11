@@ -1,0 +1,7 @@
+/Users/asaleh/workspace/book/src/main/java/com/example/book/BookApplication.java
+/Users/asaleh/workspace/book/src/main/java/com/example/book/validation/Validator.java
+/Users/asaleh/workspace/book/src/main/java/com/example/book/model/Book.java
+/Users/asaleh/workspace/book/src/main/java/com/example/book/persistence/BookRepository.java
+/Users/asaleh/workspace/book/src/main/java/com/example/book/service/BookService.java
+/Users/asaleh/workspace/book/src/main/java/com/example/book/exception/WrongFormatException.java
+/Users/asaleh/workspace/book/src/main/java/com/example/book/api/BookController.java
