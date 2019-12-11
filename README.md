@@ -4,6 +4,7 @@
 - Technologien
 - Versionsverwaltung
 - Dokumentation
+- Hintergrund
 
 **Einleitung:**
 Deine örtliche Stadtbibliothek benötigt ein neues Verwaltungssystem für ihre Bücher. Da die Bibliothek keine großen finanziellen Mittel zur Verfügung hat und sie dir sehr am Herzen liegt, hast du dich freiwillig bereit erklärt, das System zu entwickeln. Zusammen mit deinem besten Freund machst du dich nun an die Planung. Ihr habt euch darauf geeinigt, dass du dich um das Backend kümmerst während er das Frontend entwickelt. 
@@ -37,5 +38,9 @@ Das Ziel des Projekts ist es ein Backend zu erstellen, welches mithilfe einer RE
 - Confluence
 - Für das Management der Aufgaben wird Trello verwendet. 
   
-  
+**Hintergrund:**
+Diese Aufgabenstellung ist im Rahmen einer Azubibetreuung entstanden,
+um mich mit Projektnahen-Technologien auseinandersetzen zu dürfen. 
+
+
 Autor: Vincenzo Aurricchio
