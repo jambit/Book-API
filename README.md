@@ -14,9 +14,9 @@ Das Ziel des Projekts ist es ein Backend zu erstellen, welches mithilfe einer RE
 
 **Zu speichernde Informationen:**
 
-|name|title|author|publicationDate|pageNumber|id|
+|NAME|title|author|publicationDate|pageNumber|id|
 |----|-----|------|---------------|----------|--|
-|**type**|String|String|String (dd.mm.yyyy)|String|string|
+|**TYPE**|String|String|String (dd.mm.yyyy)|String|string|
 
 
 **Folgende Funktionalitäten sollen implementiert werden:**
