@@ -40,7 +40,7 @@ Das Ziel des Projekts ist es ein Backend zu erstellen, welches mithilfe einer RE
   
 **Hintergrund:**
 Diese Aufgabenstellung ist im Rahmen einer Azubi-betreuung entstanden,
-um mich mit Projektnahen-Technologien auseinandersetzen zu dürfen. 
+um einen Auszubildenden mit Projektnahen-Technologien auseinandersetzen zu lassen. 
 
 
 Autor: Vincenzo Aurricchio
